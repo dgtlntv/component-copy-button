@@ -21,7 +21,9 @@
   "dependencies": {
     "clipboard-polyfill": "^4.1.0",
     "react": "^17.0.0",
-    "react-dom": "^17.0.0"
+    "react-dom": "^17.0.0",
+    "sass": "^1.77.4",
+    "vanilla-framework": "^4.11.0"
   },
   "devDependencies": {
     "@figma/plugin-typings": "^1.49.0",
